@@ -57,12 +57,6 @@ Certifique-se de ter o Python instalado em sua máquina.
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir e expandir o Hortinha.
-
----
-
 ## 🤝 Contribuições
 
 Contribuições são sempre bem-vindas! Siga os passos abaixo para colaborar:
@@ -93,3 +87,11 @@ Desenvolvido com ❤️ por:
 [Rafael]
 
 [Marcus]
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir e expandir o Hortinha.
+
+---
