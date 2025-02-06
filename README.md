@@ -1,5 +1,5 @@
 
-```markdown
+```
 # Hortinha 🌱
 
 **Hortinha** é uma aplicação desenvolvida com a biblioteca `customtkinter` para auxiliar pequenos agricultores e entusiastas de jardinagem a estimarem a produção agrícola com base em dados científicos, considerando fatores como horas de sol, área cultivada, clima e orientação da plantação.
