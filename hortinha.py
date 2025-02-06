@@ -91,7 +91,7 @@ def mostrar_dados():
 
 
 janela = ctk.CTk()
-janela.title("Hortinha - Dados Científicos")
+janela.title("Hortinha")
 janela.geometry("500x500")
 janela.resizable(False, False)
 
