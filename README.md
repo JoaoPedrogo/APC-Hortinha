@@ -92,4 +92,3 @@ Desenvolvido com ❤️ por:
 [Rafael]
 
 [Marcus]
-```
