@@ -94,4 +94,3 @@ Desenvolvido com ❤️ por:
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir e expandir o Hortinha.
 
----
