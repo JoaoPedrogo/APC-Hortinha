@@ -87,6 +87,7 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo para colaborar:
 ## 💡 Créditos
 
 Desenvolvido com ❤️ por: 
+
 [João Pedro](https://github.com/JoaoPedrogo).
 
 [Rafael]
