@@ -81,15 +81,6 @@ def calcular_producao():
     except ValueError:
         messagebox.showerror("Erro", "Digite valores numéricos válidos para horas de sol e área.")
 
-def mostrar_dados():
-    dados_formatados = "Planta\tProdução Base (kg/m²)\tHoras Ideais (h)\n"
-    for planta in base_producao.keys():
-        producao_base = base_producao[planta]
-        horas_ideais = sol_ideal[planta]
-        dados_formatados += f"{planta}\t{producao_base}\t{horas_ideais}\n"
-    label_dados.config(text=dados_formatados)
-
-
 janela = ctk.CTk()
 janela.title("Hortinha")
 janela.geometry("500x500")
